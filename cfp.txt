@@ -1,7 +1,7 @@
 
                               MMVE 2018
 
-International Workshops on Immersive Mixed and Virtual Environment Systems
+International Workshop on Immersive Mixed and Virtual Environment Systems
 
                       Amsterdam, The Netherlands
           Co-located with ACM Multimedia Systems Conference (MMSys)
